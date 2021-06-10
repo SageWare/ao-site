@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://merryonette.com/contact.html</loc>
-	</url>
-	<url>
 		<loc>https://merryonette.com/lyrics.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>https://merryonette.com/index.html</loc>
+	</url>
+	<url>
+		<loc>https://merryonette.com/contact.html</loc>
 	</url>
 </urlset>
